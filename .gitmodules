@@ -1,0 +1,3 @@
+[submodule "src/kiba-cli"]
+	path = src/kiba-cli
+	url = git@github.com:lingrottin/kiba-cli.git
